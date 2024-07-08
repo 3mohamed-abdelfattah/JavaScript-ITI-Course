@@ -26,4 +26,6 @@
 
 [ DOM ](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
+[ useragent property ](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
+
 ---
