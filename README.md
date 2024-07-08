@@ -22,4 +22,8 @@
 ---
 ## CH 8
 ![Infographic_CH08_Browser Object Model (BOM)](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/cb8829c3-07ea-418f-8f15-15bd7a651219)
+
+
+[ DOM ](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
 ---
