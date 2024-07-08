@@ -10,3 +10,11 @@
 
 
 ![Infographic_CH06_object Object](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/a3656921-f17c-456c-9cb6-1da81731de41)
+
+
+---
+## CH 7
+
+![image](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/8f053310-2625-4f22-89e8-45f94262c8c4)
+
+---
