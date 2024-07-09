@@ -1,7 +1,11 @@
 function saveInfo() {
     //Persistent Cookie
     var date = new Date();
-    date.setMonth(date.getMonth() + 2);
+
+    if (document.getElementById("k").checked){
+        date.setMonth(date.getMonth() + 6);
+
+    }
     var valName = document.getElementById("name").value;
     var valEmail = document.getElementById("email").value;
     var valPassword = document.getElementById("password").value;
