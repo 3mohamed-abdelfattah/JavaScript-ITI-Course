@@ -2,7 +2,7 @@ function saveInfo() {
     //Persistent Cookie
     var date = new Date();
 
-    if (document.getElementById("k").checked){
+    if (document.getElementById("k").checked) {
         date.setMonth(date.getMonth() + 6);
 
     }
@@ -34,4 +34,12 @@ function displayGreeting() {
     var text = "Hello, " + name + " !" + "\n Your Email is " + email;
 
     h1.appendChild(document.createTextNode(text))
+}
+
+
+function logOut() {
+    var cookie = getAllCookies();
+    for (i in cookie) {
+        document.cookie = i + "=;expires=9-9-2002"
+    }
 }
