@@ -29,3 +29,11 @@
 [ useragent property ](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 
 ---
+
+## CH 9
+![Infographic_CH08_Browser Object Model (BOM)](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/cb8829c3-07ea-418f-8f15-15bd7a651219)
+
+
+[ Node properties and methods](https://developer.mozilla.org/en-US/docs/Web/API/Node)
+
+---
