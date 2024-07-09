@@ -31,9 +31,9 @@
 ---
 
 ## CH 9
-![Infographic_CH08_Browser Object Model (BOM)](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/cb8829c3-07ea-418f-8f15-15bd7a651219)
-
 
 [ Node properties and methods](https://developer.mozilla.org/en-US/docs/Web/API/Node)
+
+![image](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/8933f927-e3c0-42bc-ad9b-95ca7dbf1d5d)
 
 ---
