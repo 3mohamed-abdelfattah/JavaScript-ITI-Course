@@ -37,3 +37,15 @@
 ![image](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/8933f927-e3c0-42bc-ad9b-95ca7dbf1d5d)
 
 ---
+
+---
+
+## CH 10
+
+[ Event: cancelBubble property ](https://developer.mozilla.org/en-US/docs/Web/API/Event/cancelBubble)
+
+---
+
+
+
+
