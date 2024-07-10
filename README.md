@@ -46,6 +46,12 @@
 
 ---
 
+## OOP
+
+![image](https://github.com/3mohamed-abdelfattah/JavaScript-ITI-Course/assets/142848460/05ea0ef1-cf6f-4b77-b2de-8dfa999870a4)
+
+---
+
 
 
 
